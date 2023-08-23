@@ -4,7 +4,7 @@ const items = [1, [2, [3, [4]]]]
 const newItems = _.flattenDeep(items)
 console.log(newItems)
 
-console.log('I have included nodemon into the devDependencies in package.json')
+console.log('I have   included nodemon into the devDependencies in package.json')
 console.log('Included some Console.logs below')
 /*
 
